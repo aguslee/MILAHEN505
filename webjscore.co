@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>PS4EXPLOIT</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
+    
+<style>
+      body {
+        font-family: 'Cutive Mono', monospace;
+      }
+    </style>
+</head>
+<body>
+    <div id="particles-js">
+        <div class="btext">       
+            <h1>PS4 PAYLOAD</h1><br><br>
+            <span style="text-decoration:line-through"><h3>NO MORE FVCKIN DRAMA ABOUT ESPHOST AND FVCKIN DONGLE</h3>
+                <br>please don't sell anything about piracy software and free code </span></br><br><br><br>
+        <br></br>
+            <a href="https://cupecups.github.io/405/" class="btn">FW. 4.05</a>
+            <a href="https://cupecups.github.io/405lite/" class="btn">FW. 4.05 LITE</a>
+            <a href="https://cupecups.github.io/455/" class="btn">FW. 4.55</a>
+            <a href="https://cupecups.github.io/455lite/" class="btn">FW. 4.55 LITE</a><br><br>
+            <a href="https://cupecups.github.io/ps3han/" class="btn">PS3 PAYLOAD</a><br><br>
+                 <p><h5>live injector by <a href="https://www.facebook.com/cupecups" style="text-decoration : none; color : #ffffff;">cupecups</a></h5></p><br>
+    </div>
+    <script src="particles.js"></script>
+  	<script src="app.js"></script>
+  	<script src="particles.min.js"></script>
+        })
+    </script>
+</body>
+</html>
